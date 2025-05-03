@@ -1,3 +1,8 @@
+Currently, the API servers for both CircleSync and URLike services have been temporarily suspended. However, PersonalConnect organization is personally conducting research on methods to optimize resource provisioning in public cloud environments.
+
+
+## CirclsSync
+
 [CircleSync](https://circlesync.dev) helps provision private Outline VPN servers in your AWS cloud using AWS Cross Account access.
 
 **Provision Once, Go Anywhere** Achieve digital nomad lifestyle with CircleSync. **[Get started](https://circlesync.dev/get-started)**
@@ -12,7 +17,12 @@
 - 🎯 **Flexible.** You can maintain VPN servers only while using them and quickly delete them when not needed.
 - 🛡️ **Private.** Since customers own their VPN servers, no logs are kept
 
+## URLike
+
+URLike is a service that activates when a user clicks on an unclear link in a text message. It first accesses the link using a headless browser installed in a sandbox environment, captures a screenshot, and then sends an FCM (Firebase Cloud Messaging) message to the user with this preview image.
+
 
 ## Links
 
-- [Website](https://circlesync.dev)
+- [CircleSync - Website](https://circlesync.dev)
+- [Urlike - Android Application](https://play.google.com/store/apps/details?id=com.personalconnect.urlike_app)
