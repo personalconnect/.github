@@ -1,11 +1,11 @@
 Currently, the API servers for both CircleSync and URLike services have been temporarily suspended. However, PersonalConnect organization is personally conducting research on methods to optimize resource provisioning in public cloud environments.
 
 
-## CirclsSync
+## CirclsSync (deprecated) - [Demo](https://youtu.be/BrAq7g0KcNo?si=Bt2kkdVdNdBh_Hpp)
 
-[CircleSync](https://circlesync.dev) helps provision private Outline VPN servers in your AWS cloud using AWS Cross Account access.
+CircleSync helps provision private Outline VPN servers in your AWS cloud using AWS Cross Account access.
 
-**Provision Once, Go Anywhere** Achieve digital nomad lifestyle with CircleSync. **[Get started](https://circlesync.dev/get-started)**
+**Provision Once, Go Anywhere** Achieve digital nomad lifestyle with CircleSync.
 
 ![product](https://github.com/user-attachments/assets/548ad456-0702-4616-b9f9-193403d5a904)
 
@@ -17,7 +17,7 @@ Currently, the API servers for both CircleSync and URLike services have been tem
 - 🎯 **Flexible.** You can maintain VPN servers only while using them and quickly delete them when not needed.
 - 🛡️ **Private.** Since customers own their VPN servers, no logs are kept
 
-## URLike
+## URLike (deprecated) - [Demo](https://youtube.com/shorts/-ee0S8P0oB4?feature=share)
 
 URLike is a service that activates when a user clicks on an unclear link in a text message. It first accesses the link using a headless browser installed in a sandbox environment, captures a screenshot, and then sends an FCM (Firebase Cloud Messaging) message to the user with this preview image.
 
