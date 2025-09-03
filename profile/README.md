@@ -1,5 +1,6 @@
-Currently, the API servers for both CircleSync and URLike services have been temporarily suspended. However, PersonalConnect organization is personally conducting research on methods to optimize resource provisioning in public cloud environments.
+## [RAGround](www.raground.com)
 
+RAGround allows users to easily chat with their PDFs using AI. Simply enter your OpenAI key, and RAGround will create a vector store, upload your PDFs, and enable AI conversations about your documents using OpenAI FileSearch - all through a user-friendly interface.
 
 ## CirclsSync (deprecated) - [Demo](https://youtu.be/BrAq7g0KcNo?si=Bt2kkdVdNdBh_Hpp)
 
