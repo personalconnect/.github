@@ -1,4 +1,4 @@
-## [RAGround](www.raground.com) (deprecated)
+## RAGround (deprecated)
 
 RAGround allows users to easily chat with their PDFs using AI. Simply enter your OpenAI key, and RAGround will create a vector store, upload your PDFs, and enable AI conversations about your documents using OpenAI FileSearch - all through a user-friendly interface.
 
