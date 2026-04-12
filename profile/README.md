@@ -1,30 +1,31 @@
-## RAGround (deprecated)
+![product](https://github.com/user-attachments/assets/99bb9c1d-97b9-4c8e-8391-009b45359b61)
 
-RAGround allows users to easily chat with their PDFs using AI. Simply enter your OpenAI key, and RAGround will create a vector store, upload your PDFs, and enable AI conversations about your documents using OpenAI FileSearch - all through a user-friendly interface.
+> *"Your text, readable only by those you choose."*
 
-## CirclsSync (deprecated) - [Demo](https://youtu.be/BrAq7g0KcNo?si=Bt2kkdVdNdBh_Hpp)
+**DragPass** is an end-to-end encrypted text encryption Chrome extension.
+Drag to encrypt, drag to decrypt — right on top of any web page.
 
-CircleSync helps provision private Outline VPN servers in your AWS cloud using AWS Cross Account access.
+---
 
-**Provision Once, Go Anywhere** Achieve digital nomad lifestyle with CircleSync.
+### Zero-Knowledge Architecture
 
-![product](https://github.com/user-attachments/assets/548ad456-0702-4616-b9f9-193403d5a904)
+- Your private key **never leaves the OS Keychain**.
+- The server operates only as a public-key directory and team key manager — it **never sees plaintext or private keys**.
+- No email, no phone number. Fully anonymous by design, so even in a breach, **no identity is linked**.
 
+### Pure Braille Ciphertext
 
-## Why CircleSync?
+Ciphertext lives as pure Braille text:
 
-- ⚡️ **Lightning Fast.** CircleSync creates Outline VPN servers in all AWS regions within 5 minutes.
-- 🔒 **Secure.** VPN ports are restricted to your IP address only, making the VPN access key unusable even if exposed.
-- 🎯 **Flexible.** You can maintain VPN servers only while using them and quickly delete them when not needed.
-- 🛡️ **Private.** Since customers own their VPN servers, no logs are kept
-
-## URLike (deprecated) - [Demo](https://youtube.com/shorts/-ee0S8P0oB4?feature=share)
-
-URLike is a service that activates when a user clicks on an unclear link in a text message. It first accesses the link using a headless browser installed in a sandbox environment, captures a screenshot, and then sends an FCM (Firebase Cloud Messaging) message to the user with this preview image.
+·⠀⠈⠨⠔⠌⠳⠝⁘
 
 
-## Links
 
-- [RAGround - Website](https://www.raground.com)
-- [CircleSync - Website](https://circlesync.dev)
-- [Urlike - Android Application](https://play.google.com/store/apps/details?id=com.personalconnect.urlike_app)
+Paste it in Slack, Notion, email — anywhere.
+Only your designated teammates can decode it.
+
+---
+
+DragPass is **not** a password manager.
+It is a zero-knowledge encryption layer that sits on top of every web service you already use.
+
