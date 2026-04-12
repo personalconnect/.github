@@ -26,6 +26,6 @@ Only your designated teammates can decode it.
 
 ---
 
-DragPass is **not** a password manager.
+[DragPass](https://chromewebstore.google.com/detail/dragpass-drag-your-passwo/cmgjlocmnppfpknaipdfodjhbplnhimk?hl=ko) is **not** a password manager.
 It is a zero-knowledge encryption layer that sits on top of every web service you already use.
 
